@@ -14,5 +14,15 @@ yarn package manager ile şu komudu terminalde yazalım.
 
 yarn add @material-ui/core
 
---- Şimdiye kadar React'ı ve material-ui'yı projemize kurduk. 
+--- Şimdiye kadar React'ı ve material-ui'yı projemize(templates) kurduk. 
 
+
+3.templates/src klasörü içerisinde bir tane sign-in klasörü oluşturalım. 
+
+
+4.Oluşturduğumuz SignIn klasörü içerisinde SignIn.js ve SignIn.tsx dosyalarını copy-paste yapalım.
+
+
+5.Projede typescript uzantılı(SignIn.tsx) bir dosya olduğu için typescript'i indirelim. 
+Not: templates' locate olduktan sonra 
+npm install -g typescript
