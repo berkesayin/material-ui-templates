@@ -9,3 +9,10 @@ Klasör adı templates olsun:
 npx create-react-app templates
 
 
+2.Command prompt'ta templates klasörüne locate olalım. Daha sonra material-ui'ı projemize dahil etmek için
+yarn package manager ile şu komudu terminalde yazalım.
+
+yarn add @material-ui/core
+
+--- Şimdiye kadar React'ı ve material-ui'yı projemize kurduk. 
+
