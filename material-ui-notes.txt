@@ -1,2 +1,11 @@
 Material UI Notes And Templates
 
+Not: Biz şimdiye kadar npm(node package manager ve yarn package manager'ı indirmiştik). Paket indirmelerimizi npm 
+veya yarn üzerinden yapailiriz. 
+
+1.Command promt'u terminal olarak açalım. material-ui-templates'e locate olalım ve react'ı projemize kuralım. 
+Klasör adı templates olsun:
+
+npx create-react-app templates
+
+
