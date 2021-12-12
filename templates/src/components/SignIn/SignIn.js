@@ -39,6 +39,10 @@ export default function SignIn() {
     });
   };
 
+  function doIt() {
+    alert();
+  }   
+
   return (
     <ThemeProvider theme={theme}>
       <Container component="main" maxWidth="xs">
@@ -83,6 +87,7 @@ export default function SignIn() {
               label="Remember me"
             />
             <Button
+              onClick={doIt}
               type="submit"
               fullWidth
               variant="contained"
