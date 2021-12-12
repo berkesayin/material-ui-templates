@@ -26,3 +26,8 @@ yarn add @material-ui/core
 5.Projede typescript uzantılı(SignIn.tsx) bir dosya olduğu için typescript'i indirelim. 
 Not: templates' locate olduktan sonra 
 npm install -g typescript
+
+
+6.yarn add @mui/icons-material
+
+yarn add @emotion/react
