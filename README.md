@@ -5,6 +5,7 @@
 * [Sign Up](#sign-up)
 * [Checkout](#Checkout)
 * [Pricing](#pricing)
+* [Album](#album)
 
 
 
@@ -28,3 +29,8 @@
 - ### Pricing Page with React + Material UI <a name="pricing"></a>
 
 ![gif](images/pricing.gif)
+
+
+- ### Album Page with React + Material UI <a name="album"></a>
+
+![gif](images/album.gif)
