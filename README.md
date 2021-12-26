@@ -1,4 +1,4 @@
-# React + Material UI 
+# React.js + Material UI 
 
 # Contents
 * [Sign In](#sign-in)
